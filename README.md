@@ -1,6 +1,8 @@
 # robofriends
 Learning React with Andrei (udemy) and making a web app
 
-Clone this repo
-Run npm install
-Run npm start
+To run the project:
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
